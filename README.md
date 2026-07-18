@@ -78,8 +78,7 @@ The overall direction of this profile suggests a move toward stronger production
 
 - GitHub: [https://github.com/JayanthSD2003](https://github.com/JayanthSD2003)
 - LinkedIn: [https://www.linkedin.com/in/jayanth-sd-0842b6223](https://www.linkedin.com/in/jayanth-sd-0842b6223) [1]
-- Portfolio: Add your portfolio link here
-- Email: Add your email here
+- Email: jayanthsd2003@yahoo.com
 
 ## Profile Note
 
