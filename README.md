@@ -38,7 +38,7 @@
 - **VTU Internyet x Edutainer Python Projects** — internship project set covering GUI, PHP connection, and programming basics [1].
 
 ## 📚 Repository Highlights
-- **Original builds:** `JayanthSD2003`, `InvoiceFlow---Invoice_billing_portal`, `Edutainer_Invoice_Billing_Protal`, `EY_GDS_Advanced-Data-Analytics_project`, `A-php-xampp-MySQL_expense-tracker-dashboard`, `AMS-Attendance_Management_System`, `Python_Webscrapper`, `DMS_SARATHI_-Driver-Monitoring_System-`, and multiple `Rx_Shield` versions [1].
+- **Original builds:** ` `InvoiceFlow---Invoice_billing_portal`, `Edutainer_Invoice_Billing_Protal`, `EY_GDS_Advanced-Data-Analytics_project`, `A-php-xampp-MySQL_expense-tracker-dashboard`, `AMS-Attendance_Management_System`, `Python_Webscrapper`, `DMS_SARATHI_-Driver-Monitoring_System-`, and multiple `Rx_Shield` versions [1].
 - **Internship / academic work:** `VTU_Internyet_x_Edutainer_Python_projects` and `VTU_Internyet_x_Edutainer_Full-Stack_HR_System_Capestone_project` [1].
 - **Forks for exploration and learning:** `claude-code`, `puter`, `DeepSeek-OCR`, `gcloud-mcp`, `RVCE-Coding-Bootkit`, `Swift-Rides`, and `SARATHI_HACKERZ_HACKIO_MUJ` [1].
 - **Private work shown on profile:** `desktop-tutorial`, `Mca_Website_Wt_Project`, and `SARATHI_Krishna` [1].
