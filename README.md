@@ -13,18 +13,19 @@
 
 ## 🧰 Tech Stack
 <p align="left">
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=plastic&logo=xampp&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+  <!-- Tech Stack - App Icon Style Badges -->
+<img src="github-icon.svg" alt="GitHub" width="64" />
+<img src="python-icon.svg" alt="Python" width="64" />
+<img src="c++-icon.svg" alt="C++" width="64" />
+<img src="html5-icon.svg" alt="HTML5" width="64" />
+<img src="css3-icon.svg" alt="CSS3" width="64" />
+<img src="javascript-icon.svg" alt="JavaScript" width="64" />
+<img src="php-icon.svg" alt="PHP" width="64" />
+<img src="xampp-icon.svg" alt="XAMPP" width="64" />
+<img src="react-icon.svg" alt="React" width="64" />
+<img src="tailwindcss-icon.svg" alt="TailwindCSS" width="64" />
+<img src="typescript-icon.svg" alt="TypeScript" width="64" />
+<img src="mysql-icon.svg" alt="MySQL" width="64" />
 </p>
 
 ## 📌 Featured Projects
