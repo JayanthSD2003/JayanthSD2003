@@ -44,9 +44,9 @@
 - **Private work shown on profile:** `desktop-tutorial`, `Mca_Website_Wt_Project`, and `SARATHI_Krishna` [1].
 
 ## 🎯 Interests
-- Full-stack product development
 - AI and ML applications
 - Data analytics and dashboards
+- Full-stack product development
 - Healthcare and safety-focused software
 - Python automation and desktop tools
 - Future hardware and embedded builds
